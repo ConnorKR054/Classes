@@ -1,0 +1,13 @@
+HTTP1:
+1. In HTTP1, client sends request to a server by calling a method like GET or POST.
+2. GET fetches the data that you have asked for.
+3. HTTP1 uses text based requests to the server.
+4. Sometimes when using GET request we will not get a completely rendered page,in this case we have to send multiple requests to get additional resources,which can be time and resource consuming.
+5. Multiple use of TCP connections required to connect with the machines.
+
+HTTP2:
+1. In HTTP2,it uses binary layer to include all messages in binary format.
+2. HTTP2 encodes GET and POST methods in binary format.
+3. HTTP2 establishes a single connection object between the two machines. Within this connection there are multiple streams of data. Each stream consists of multiple messages in the the format.
+4. Since binary format is used the pages will be fully rendered in a single request.
+5. Only 1 TCP/Ip connection is needed ,which will improve the efficiency of the system

@@ -1,0 +1,15 @@
+Browser JavaScript:
+
+1. Javascript is a programming language that is used for writing scripts / logic for a website.
+2. It can be only run in the browser.
+3. It is usually used in the client side.
+4. Javascript can run in any browser engine.
+5. Javascript is used in frontend development.
+
+NodeJS:
+1. NodeJS code can be run outside the browser.
+2. It is mostly used on the server-side
+3. It can only run in V8 engine of Chrome.
+4. It is used in server side development.
+5. NodeJS is a runtime environment for JavaScript.
+
