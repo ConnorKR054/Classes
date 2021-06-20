@@ -1,0 +1,2 @@
+var resume = {Name:"Akash",DOB:"17/MM/YYYY",Skills:["Java","C++","Javascript","HTML","CSS"],Experience:"CS at Amazon",Education:"Btech in Inforamtion Technmology at CSI college of Engineering",Projects:[ "Created a Blog Website."," Stock maintenance system using Visual studio and SQL", " Front end for Firing range automation system for the Indian Army"],EmailID:"krXXXXXX@gmail.com",ContactNo:"70940XXXXX"}
+console.log(resume)
